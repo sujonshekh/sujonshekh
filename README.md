@@ -9,7 +9,17 @@
   <strong>𝙶𝚒𝚝𝚑𝚞𝚋 𝚂𝚝𝚊𝚝𝚜 : </strong>
 </summary>
 <br/>
+  <div>
+  <p align="center">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=sujonshekh&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
 
+  </div>
+<div>
+  <p align="center">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=sujonshekh&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=sujonshekh&layout=compact&langs_count=8&theme=algolia"/>  
+  <p>
+  </div>
 </details>
 <br/>
 
