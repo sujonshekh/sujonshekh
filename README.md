@@ -1,5 +1,7 @@
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=FDE100&center=true&vCenter=true&width=940&lines=Hey%2C+I'm+Sujon+Shekh!" align="middle" alt="Hey,  Welcome to my Profile! animated typed out" width="100%"/>
-<img src="https://github.com/fmahadyBD/fmahadyBD/raw/main/Data/Assets/Line.gif" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage">
+<img src="https://github.com/SujonShekh/SujonShekh/raw/main/Data/Assets/Line.gif" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage">
+<img src="https://github.com/SujonShekh/SujonShekh/raw/main/Data/Assets/flameo1.gif" align="left" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage">
+
 </hr>
 <p align="left"><img src="https://komarev.com/ghpvc/?username=sujonshekh&label=Profile%20views&color=0e75b6&style=flat" alt="sujonshekh" /> </p>
 
